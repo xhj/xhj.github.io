@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://xiehuajian.cn/posts/</loc>
-    <lastmod>2020-11-23T15:42:51+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://xiehuajian.cn/posts/children-books-recommendation/</loc>
-    <lastmod>2020-11-23T15:42:51+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://xiehuajian.cn/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://xiehuajian.cn/cn/2020/11/children-books-recommendation/</loc>
+    <lastmod>2020-11-23T15:42:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://xiehuajian.cn/cn/</loc>
     <lastmod>2020-11-23T15:42:51+08:00</lastmod>
   </url>
   
@@ -23,12 +23,12 @@
   </url>
   
   <url>
-    <loc>http://xiehuajian.cn/posts/my-github-contributions/</loc>
+    <loc>http://xiehuajian.cn/cn/2020/11/my-github-contributions/</loc>
     <lastmod>2020-11-22T21:49:51+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://xiehuajian.cn/posts/my-first-post/</loc>
+    <loc>http://xiehuajian.cn/cn/2020/11/my-first-post/</loc>
     <lastmod>2020-11-22T18:10:05+08:00</lastmod>
   </url>
   
