@@ -6,7 +6,16 @@
     <description>Recent content in 日积月累 on 随想录</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Jun 2021 19:55:00 +0800</lastBuildDate><atom:link href="http://xiehuajian.cn/cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Jun 2021 20:18:00 +0800</lastBuildDate><atom:link href="http://xiehuajian.cn/cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>机器学习100天（1/100）</title>
+      <link>http://xiehuajian.cn/cn/2021/06/machine-learning-100-days-0/</link>
+      <pubDate>Tue, 29 Jun 2021 20:18:00 +0800</pubDate>
+      
+      <guid>http://xiehuajian.cn/cn/2021/06/machine-learning-100-days-0/</guid>
+      <description>今天的主要任务是安装配置。 1.System Configuration sudo apt update sudo apt upgrade -y sudo apt install -y build-essential cmake unzip pkg-config sudo apt install -y libxmu-dev libxi-dev libglu1-mesa libglu1-mesa-dev sudo apt install -y libjpeg-dev libpng-dev libtiff-dev sudo apt install -y libavcodec-dev libavformat-dev libswscale-dev libv4l-dev sudo apt install -y libxvidcore-dev libx264-dev sudo apt install -y libgtk-3-dev sudo apt install -y libopenblas-dev libatlas-base-dev</description>
+    </item>
+    
     <item>
       <title>机器学习100天（0/100）</title>
       <link>http://xiehuajian.cn/cn/2021/06/machine-learning-100-days-0/</link>
