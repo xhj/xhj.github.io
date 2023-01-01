@@ -6,7 +6,16 @@
     <description>Recent content in 日积月累 on 随想录</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jun 2021 20:18:00 +0800</lastBuildDate><atom:link href="https://xiehuajian.fun/cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 20:01:49 +0800</lastBuildDate><atom:link href="https://xiehuajian.fun/cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新年新气象</title>
+      <link>https://xiehuajian.fun/cn/2023/01/new-year-new-resolution/</link>
+      <pubDate>Sun, 01 Jan 2023 20:01:49 +0800</pubDate>
+      
+      <guid>https://xiehuajian.fun/cn/2023/01/new-year-new-resolution/</guid>
+      <description>以往许下的新年愿望，没有哪年是实现了的，以往定下的新年决心，没有哪年是坚持下去了的，2023年是普通的一年，也是梦醒之后的第一年，制定点实际</description>
+    </item>
+    
     <item>
       <title>机器学习100天（1/100）</title>
       <link>https://xiehuajian.fun/cn/2021/06/machine-learning-100-days-0/</link>
@@ -50,15 +59,6 @@
       
       <guid>https://xiehuajian.fun/cn/2020/11/my-github-contributions/</guid>
       <description>这几天一直在浏览谢益辉的个人网站，在一篇文章中看到一个生成github瓷砖图的工具，点进去输入自己的用户名一看，真是惨不忍睹，完全白瞎了自己</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://xiehuajian.fun/cn/2020/11/my-first-post/</link>
-      <pubDate>Sun, 22 Nov 2020 18:10:05 +0800</pubDate>
-      
-      <guid>https://xiehuajian.fun/cn/2020/11/my-first-post/</guid>
-      <description>Hexo暂不支持node 14及以上的版本进行部署，本来就有点开始对Hexo有点审美疲劳了，于是又来折腾Hugo。 说实话，程序员写博客多半都是</description>
     </item>
     
     <item>
